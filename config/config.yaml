@@ -1,0 +1,6 @@
+
+SRC_IMG : "Input(mp3)/file1.mp3" 
+DST_IMG : "Output(wav)/test.wav"
+
+INPUT_DIR : "Output(wav)/test.wav"
+OUTPUT_DIR : "Output/chunk{0}.wav"
